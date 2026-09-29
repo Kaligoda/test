@@ -1,0 +1,3 @@
+AWS_access_key_id= "HFJDHFJDHFDJHFDJH"
+password = "undere"
+api_key= "fdfddf"
